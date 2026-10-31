@@ -124,7 +124,7 @@ export default function App() {
 
         {/* Fan Lead Capture */}
         <div className="w-full max-w-md bg-neutral-900/40 border border-neutral-800/80 p-6 rounded-2xl backdrop-blur-sm">
-          <h3 className="text-lg font-bold mb-1">Join The BallyMan Squad</h3>
+          <h3 className="text-lg font-bold mb-1">Join The Corporate Gangstars Worldwide</h3>
           <p className="text-xs text-neutral-400 mb-4">
             Be the first to hear about upcoming music videos, tour dates, and exclusive merch.
           </p>
